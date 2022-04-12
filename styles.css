@@ -1,0 +1,69 @@
+body {
+  margin: 0;
+  padding: 0;
+  color: #40514e;
+  background-color: black;
+  font-family: 'Merriweather', serif;
+}
+
+head {
+  margin: 0;
+  padding: 0;
+}
+a:link, a:visited {
+  background-color: white;
+  color: black;
+  padding: 15px 75px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #EEB76B;
+}
+
+.rectangle {
+  height: 75px;
+  position: fixed;
+  background-size: cover;
+  background-color: WHITE;
+}
+
+.logo {
+  position: fixed;
+  height: 60px;
+  width: auto;
+  padding-top: 12px;
+}
+
+.heading1 {
+  text-align: center;
+  padding-top: 170px;
+}
+
+.heading2 {
+  position: fixed;
+  text-align: left;
+  padding-left: 70px;
+  padding-top: 15px;
+}
+.topnav{
+  position: fixed;
+  padding-top: 25px;
+  padding-left: 400px;
+}
+.copyright-name {
+  color: black;
+  text-align: center;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+.bottom-container {
+  background-color: white;
+  text-align: center;
+  padding: 50px 0 20px;
+}
+.google{
+  padding-top: 170px;
+}
