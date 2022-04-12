@@ -24,11 +24,11 @@ a:hover, a:active {
 }
 
 .rectangle {
-  height: 75px;
+  height: 76px;
+  width: 1800px;
   position: fixed;
   background-size: cover;
-  background-color: WHITE;
-}
+  background-color: white;
 
 .logo {
   position: fixed;
