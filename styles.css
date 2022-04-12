@@ -10,6 +10,7 @@ head {
   margin: 0;
   padding: 0;
 }
+
 a:link, a:visited {
   background-color: white;
   color: black;
@@ -29,12 +30,17 @@ a:hover, a:active {
   position: fixed;
   background-size: cover;
   background-color: white;
+}
 
 .logo {
   position: fixed;
   height: 60px;
   width: auto;
   padding-top: 12px;
+}
+.mcc-img{
+  height: 768px ;
+  width: 1024px ;
 }
 
 .heading1 {
@@ -48,22 +54,26 @@ a:hover, a:active {
   padding-left: 70px;
   padding-top: 15px;
 }
-.topnav{
+
+.topnav {
   position: fixed;
   padding-top: 25px;
   padding-left: 400px;
 }
+
 .copyright-name {
   color: black;
   text-align: center;
   font-size: 0.75rem;
   padding: 20px 0;
 }
+
 .bottom-container {
   background-color: white;
   text-align: center;
   padding: 50px 0 20px;
 }
-.google{
+
+.google {
   padding-top: 170px;
 }
